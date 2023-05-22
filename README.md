@@ -22,8 +22,15 @@ Showcase of Machine Learning skills using Python [Achieved 100%]
   - 03 - K-Nearest Neighbours.ipynb
   - 04 - Decision Trees.ipynb
   - 05 - Regression Trees.ipynb
+  - 06 - Logistic Regression.ipynb
+  - 07 - SVM (Support Vector Machines).ipynb
+  - 08 - Multiclass Prediction.ipynb
+  - 09 - K-means.ipynb
+  - 10 - Credit Card Fraud Detection.ipynb
+  - 11 - Taxi Tip Prediction.ipynb
 - README.md
 
 ### Executive Summary
 
 The "Machine Learning with Python" section of the IBM Data Science Professional Certificate covered various Machine Learning topics, including supervised and unsupervised learning, regression, and classification. The course provided an overview of different algorithms and techniques, such as K Nearest Neighbors, Decision Trees, and Regression Trees, and how to apply them to real-world problems. 
+
