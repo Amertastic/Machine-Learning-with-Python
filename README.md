@@ -62,7 +62,7 @@ Implemented simple linear regression using scikit-learn to model and predict fue
 
 Demonstrates the use of Decision Trees for classification in healthcare. The dataset contains patient information and drug response, enabling the development of a model to predict suitable medications for future patients. The notebook covers data pre-processing, decision tree setup, modeling, prediction, evaluation, and visualization.
 
-|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis06-Immigrants%20from%20China%20and%20India.png" width="100%" height="100%">| 
+|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Decision%20Trees%201.png" width="100%" height="100%">| 
 |:--:| 
 | *"Bubble plots of immigration from China and India to visualize any differences with time from 1980 to 2013"* |
 
@@ -74,7 +74,7 @@ Implemented regression trees using ScikitLearn to predict the median price of ho
 
 This Python notebook demonstrates the use of logistic regression for customer churn prediction in a telecommunications company. The dataset includes customer information such as services, account details, and demographics. The logistic regression model is built using scikit-learn and evaluated using a confusion matrix, which shows the model's performance in predicting customer churn. The results highlight the model's ability to correctly identify customers who leave (churn) and those who stay, providing insights for customer retention strategies.
 
-|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="60%" height="60%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
+|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Logistic%20Regression%201.png" width="60%" height="60%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Logistic%20Regression%202.png" width="100%" height="100%"> | 
 |:--:|:--:| 
 | *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
 
