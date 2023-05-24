@@ -74,7 +74,7 @@ Implemented regression trees using ScikitLearn to predict the median price of ho
 
 This Python notebook demonstrates the use of logistic regression for customer churn prediction in a telecommunications company. The dataset includes customer information such as services, account details, and demographics. The logistic regression model is built using scikit-learn and evaluated using a confusion matrix, which shows the model's performance in predicting customer churn. The results highlight the model's ability to correctly identify customers who leave (churn) and those who stay, providing insights for customer retention strategies.
 
-|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Logistic%20Regression%201.png" width="60%" height="60%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Logistic%20Regression%202.png" width="100%" height="100%"> | 
+|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Logistic%20Regression%201.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Logistic%20Regression%202.png" width="100%" height="100%"> | 
 |:--:|:--:| 
 | *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
 
