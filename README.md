@@ -62,7 +62,7 @@ Implemented simple linear regression using scikit-learn to model and predict fue
 
 Demonstrates the use of Decision Trees for classification in healthcare. The dataset contains patient information and drug response, enabling the development of a model to predict suitable medications for future patients. The notebook covers data pre-processing, decision tree setup, modeling, prediction, evaluation, and visualization.
 
-|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Decision%20Trees%201.png" width="100%" height="100%">| 
+|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Decision%20Trees%201.png" width="50%" height="50%">| 
 |:--:| 
 | *"Bubble plots of immigration from China and India to visualize any differences with time from 1980 to 2013"* |
 
