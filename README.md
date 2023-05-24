@@ -52,9 +52,11 @@ Implemented multiple linear regression using scikit-learn to predict CO2 emissio
 
 Implemented simple linear regression using scikit-learn to model and predict fuel consumption and carbon dioxide emissions. Evaluated the model's accuracy using MSE, MAE, RMSE, and R-squared metrics.
 
-|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis06-Immigrants%20from%20China%20and%20India.png" width="100%" height="100%">| 
-|:--:| 
-| *"Bubble plots of immigration from China and India to visualize any differences with time from 1980 to 2013"* |
+
+|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Nearest%20Neighbors%202.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Nearest%20Neighbors%201.png" width="100%" height="100%"> | 
+|:--:|:--:| 
+| *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
+
 
 #### 04 - Decision Trees.ipynb
 
