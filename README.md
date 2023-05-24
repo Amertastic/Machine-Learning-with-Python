@@ -68,8 +68,51 @@ Demonstrates the use of Decision Trees for classification in healthcare. The dat
 
 Implemented regression trees using ScikitLearn to predict the median price of houses in Boston based on various features. Evaluated the accuracy of the regression trees.
 
+#### 06 - Logistic Regression.ipynb
+
+This Python notebook demonstrates the use of logistic regression for customer churn prediction in a telecommunications company. The dataset includes customer information such as services, account details, and demographics. The logistic regression model is built using scikit-learn and evaluated using a confusion matrix, which shows the model's performance in predicting customer churn. The results highlight the model's ability to correctly identify customers who leave (churn) and those who stay, providing insights for customer retention strategies.
+
 |<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
 |:--:|:--:| 
 | *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
 
+#### 07 - SVM (Support Vector Machines).ipynb
 
+This notebook focuses on using Support Vector Machines (SVM) to classify human cell records as benign or malignant. The SVM algorithm is applied to a dataset containing cell characteristics, and a model is trained and evaluated. The notebook covers data loading, preprocessing, modeling using SVM with the RBF kernel function, and evaluation using metrics like precision, recall, f1-score, and accuracy. The results include a confusion matrix and the f1-score. The Jaccard index is also utilized to measure accuracy.
+
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
+|:--:|:--:| 
+| *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
+
+#### 08 - Multiclass Prediction.ipynb
+
+This Python notebook explores the concepts of softmax regression, one-vs-all, and one-vs-one for multi-class classification.
+
+
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
+|:--:|:--:| 
+| *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
+
+#### 09 - K-means.ipynb
+
+This Python notebook demonstrates the use of K-Means Clustering for customer segmentation and data analysis. It covers the process of generating random data, setting up K-Means clustering, creating visual plots, and applying K-Means on customer datasets. The notebook also includes preprocessing steps such as dropping categorical variables and normalizing the data. By applying K-Means clustering, insights can be gained from the data and customer segmentation can be performed effectively.
+
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
+|:--:|:--:| 
+| *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
+
+#### 10 - Credit Card Fraud Detection.ipynb
+
+The Python notebook demonstrates the use of Scikit-Learn and Snap ML libraries to build and evaluate classification models for credit card fraud detection. The dataset used contains information about credit card transactions, with the objective being to predict whether a transaction is fraudulent or legitimate. The models implemented include Decision Tree and Support Vector Machine, and special attention is given to handling the highly unbalanced nature of the dataset.
+
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
+|:--:|:--:| 
+| *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
+
+#### 11 - Taxi Tip Prediction.ipynb
+
+This Python notebook demonstrates the use of Scikit-Learn and Snap ML libraries to build and evaluate a Decision Tree regression model for predicting taxi tip amounts using a real dataset from the NYC Taxi and Limousine Commission. The dataset is preprocessed, split into training and test sets, and both Scikit-Learn and Snap ML models are trained and evaluated.
+
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis06-Immigrants%20from%20China%20and%20India.png" width="100%" height="100%">| 
+|:--:| 
+| *"Bubble plots of immigration from China and India to visualize any differences with time from 1980 to 2013"* |
