@@ -91,23 +91,24 @@ This notebook focuses on using Support Vector Machines (SVM) to classify human c
 This Python notebook explores the concepts of softmax regression, one-vs-all, and one-vs-one for multi-class classification.
 
 
-|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
-|:--:|:--:| 
-| *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
+|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Multiclass%20Prediction%201.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Multiclass%20Prediction%203.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Multiclass%20Prediction%204.png" width="100%" height="100%">| 
+|:--:|:--:|:--:| 
+| *Bubble Chart*| *Pie Chart*|*Sunbust Chart*|
 
 #### 09 - K-means.ipynb
 
 This Python notebook demonstrates the use of K-Means Clustering for customer segmentation and data analysis. It covers the process of generating random data, setting up K-Means clustering, creating visual plots, and applying K-Means on customer datasets. The notebook also includes preprocessing steps such as dropping categorical variables and normalizing the data. By applying K-Means clustering, insights can be gained from the data and customer segmentation can be performed effectively.
 
-|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
-|:--:|:--:| 
-| *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
+|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Means%20Clustering%201.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Multiclass%20Prediction%203.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Means%20Clustering%203.png" width="100%" height="100%">| 
+|:--:|:--:|:--:| 
+| *Bubble Chart*| *Pie Chart*|*Sunbust Chart*|
+
 
 #### 10 - Credit Card Fraud Detection.ipynb
 
 The Python notebook demonstrates the use of Scikit-Learn and Snap ML libraries to build and evaluate classification models for credit card fraud detection. The dataset used contains information about credit card transactions, with the objective being to predict whether a transaction is fraudulent or legitimate. The models implemented include Decision Tree and Support Vector Machine, and special attention is given to handling the highly unbalanced nature of the dataset.
 
-|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Means%20Clustering%202.png" width="100%" height="100%"> | 
 |:--:|:--:| 
 | *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
 
