@@ -82,7 +82,7 @@ This Python notebook demonstrates the use of logistic regression for customer ch
 
 This notebook focuses on using Support Vector Machines (SVM) to classify human cell records as benign or malignant. The SVM algorithm is applied to a dataset containing cell characteristics, and a model is trained and evaluated. The notebook covers data loading, preprocessing, modeling using SVM with the RBF kernel function, and evaluation using metrics like precision, recall, f1-score, and accuracy. The results include a confusion matrix and the f1-score. The Jaccard index is also utilized to measure accuracy.
 
-|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis02-Immigration%20from%20China%20and%20India.png" width="100%" height="100%"> | 
+|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/SVM%20(Support%20Vector%20Machines)%201.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/SVM%20(Support%20Vector%20Machines)%202.png" width="100%" height="100%"> | 
 |:--:|:--:| 
 | *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
 
