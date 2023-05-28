@@ -108,7 +108,7 @@ This Python notebook demonstrates the use of K-Means Clustering for customer seg
 
 The Python notebook demonstrates the use of Scikit-Learn and Snap ML libraries to build and evaluate classification models for credit card fraud detection. The dataset used contains information about credit card transactions, with the objective being to predict whether a transaction is fraudulent or legitimate. The models implemented include Decision Tree and Support Vector Machine, and special attention is given to handling the highly unbalanced nature of the dataset.
 
-|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis06-Immigrants%20from%20China%20and%20India.png" width="100%" height="100%">| 
+|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Credit%20Card%20Fraud%20Detection%201.png" width="100%" height="100%">| 
 |:--:| 
 | *"Bubble plots of immigration from China and India to visualize any differences with time from 1980 to 2013"* |
 
@@ -116,6 +116,6 @@ The Python notebook demonstrates the use of Scikit-Learn and Snap ML libraries t
 
 This Python notebook demonstrates the use of Scikit-Learn and Snap ML libraries to build and evaluate a Decision Tree regression model for predicting taxi tip amounts using a real dataset from the NYC Taxi and Limousine Commission. The dataset is preprocessed, split into training and test sets, and both Scikit-Learn and Snap ML models are trained and evaluated.
 
-|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis06-Immigrants%20from%20China%20and%20India.png" width="100%" height="100%">| 
+|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Taxi%20Tip%20Prediction%201.png" width="100%" height="100%">| 
 |:--:| 
 | *"Bubble plots of immigration from China and India to visualize any differences with time from 1980 to 2013"* |
