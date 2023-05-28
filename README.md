@@ -108,9 +108,9 @@ This Python notebook demonstrates the use of K-Means Clustering for customer seg
 
 The Python notebook demonstrates the use of Scikit-Learn and Snap ML libraries to build and evaluate classification models for credit card fraud detection. The dataset used contains information about credit card transactions, with the objective being to predict whether a transaction is fraudulent or legitimate. The models implemented include Decision Tree and Support Vector Machine, and special attention is given to handling the highly unbalanced nature of the dataset.
 
-|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis01-Immigration%20from%20Haiti.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Means%20Clustering%202.png" width="100%" height="100%"> | 
-|:--:|:--:| 
-| *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
+|<img src="https://github.com/Amertastic/Data-Visualization-with-Python/blob/main/Images/Vis06-Immigrants%20from%20China%20and%20India.png" width="100%" height="100%">| 
+|:--:| 
+| *"Bubble plots of immigration from China and India to visualize any differences with time from 1980 to 2013"* |
 
 #### 11 - Taxi Tip Prediction.ipynb
 
