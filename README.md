@@ -99,7 +99,7 @@ This Python notebook explores the concepts of softmax regression, one-vs-all, an
 
 This Python notebook demonstrates the use of K-Means Clustering for customer segmentation and data analysis. It covers the process of generating random data, setting up K-Means clustering, creating visual plots, and applying K-Means on customer datasets. The notebook also includes preprocessing steps such as dropping categorical variables and normalizing the data. By applying K-Means clustering, insights can be gained from the data and customer segmentation can be performed effectively.
 
-|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Means%20Clustering%201.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Multiclass%20Prediction%203.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Means%20Clustering%203.png" width="100%" height="100%">| 
+|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Means%20Clustering%201.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Means%20Clustering%202.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Means%20Clustering%203.png" width="100%" height="100%">| 
 |:--:|:--:|:--:| 
 | *Bubble Chart*| *Pie Chart*|*Sunbust Chart*|
 
