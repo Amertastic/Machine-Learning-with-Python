@@ -76,7 +76,7 @@ This Python notebook demonstrates the use of logistic regression for customer ch
 
 |<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Logistic%20Regression%201.png" width="100%" height="100%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Logistic%20Regression%202.png" width="100%" height="100%"> | 
 |:--:|:--:| 
-| *A line graph of immigration from Haiti* | *A line graph of immigration from from China and India* |
+| *Logistic Regression passes the input through the logistic/sigmoid but then treats the result as a probability* | *Looking at the accuracy of the classifier using a confusion matrix* |
 
 #### 07 - SVM (Support Vector Machines).ipynb
 
