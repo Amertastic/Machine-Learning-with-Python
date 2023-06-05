@@ -55,7 +55,7 @@ Implemented simple linear regression using scikit-learn to model and predict fue
 
 |<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Nearest%20Neighbors%202.png" width="55%" height="55%">|<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/K-Nearest%20Neighbors%201.png" width="150%" height="150%"> | 
 |:--:|:--:| 
-| *A visualization of the K-Nearest Neighbors algorithm* | *A line graph of immigration from from China and India* |
+| *A visualization of the K-Nearest Neighbors algorithm* | *The model accuracy for a different number of neighbors.* |
 
 
 #### 04 - Decision Trees.ipynb
