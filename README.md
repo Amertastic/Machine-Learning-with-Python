@@ -64,7 +64,7 @@ Demonstrates the use of Decision Trees for classification in healthcare. The dat
 
 |<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Decision%20Trees%201.png" width="50%" height="50%">| 
 |:--:| 
-| *"Bubble plots of immigration from China and India to visualize any differences with time from 1980 to 2013"* |
+| *Decision Tree Visualization* |
 
 #### 05 - Regression Trees.ipynb
 
