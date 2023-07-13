@@ -119,3 +119,14 @@ This Python notebook demonstrates the use of Scikit-Learn and Snap ML libraries 
 |<img src="https://github.com/Amertastic/Machine-Learning-with-Python/blob/main/Images/Taxi%20Tip%20Prediction%201.png" width="55%" height="55%">| 
 |:--:| 
 | *"Bubble plots of immigration from China and India to visualize any differences with time from 1980 to 2013"* |
+
+### Technologies and Libraries Used:
+
+- Python programming language
+- Jupyter Notebook (JupyterLab)
+- Pandas for data manipulation and analysis
+- NumPy for numerical computing
+- Matplotlib for data visualization
+- Seaborn for statistical data visualization
+- Scikit-learn for machine learning tasks
+- Grid Search for hyperparameter tuning
